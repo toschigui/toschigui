@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://beacom.ai/toschigui">
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=toschigui&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toschigui&layout=compact&lang_count=16&theme=dark">
+</div>
